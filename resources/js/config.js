@@ -25,7 +25,7 @@ var bigg = [
                 url: "https://xylls.cxncp.net"
             },{
                 name: "流量卡领取",
-                icon: "icon-oabangong-copy",
+                icon: "https://mall.51haoka.shop/agent/favicon.ico",
                 url: "https://mall.51haoka.shop/index?k=d2I3dEVteG50RWM9"
             }
             
