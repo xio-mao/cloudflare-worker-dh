@@ -5,27 +5,27 @@ var bigg = [
         bigFly: [
             {
                 name: "ChatGpt",
-                icon: "icon-boke",
+                icon: "icon-ChatGpt",
                 url: "https://gpt.8374902.xyz/"
             }, {
                 name: "GitHub加速",
-                icon: "icon-shandian",
+                icon: "icon-GitHub",
                 url: "https://git.8374902.xyz/"
             }, {
                 name: "Docker加速",
-                icon: "icon-tuku",
+                icon: "icon-Docker",
                 url: "https://docker.8374902.xyz/"
             },{
                 name: "图床",
-                icon: "icon-AI",
+                icon: "icon-png",
                 url: "https://png.8374902.xyz/"
             },{
                 name: "QQ等级加速",
-                icon: "icon-oabangong-copy",
+                icon: "icon-daigua",
                 url: "https://xylls.cxncp.net"
             },{
                 name: "流量卡领取",
-                icon: "https://mall.51haoka.shop/agent/favicon.ico",
+                icon: "icon-sim",
                 url: "https://mall.51haoka.shop/index?k=d2I3dEVteG50RWM9"
             }
             
