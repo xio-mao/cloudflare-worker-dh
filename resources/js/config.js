@@ -4,29 +4,29 @@ var bigg = [
         icon: "icon-gerenwangzhan",
         bigFly: [
             {
-                name: "博客",
+                name: "ChatGpt",
                 icon: "icon-boke",
-                url: "https://b.10999901.xyz/"
+                url: "https://gpt.8374902.xyz/"
             }, {
-                name: "短链系统",
+                name: "GitHub加速",
                 icon: "icon-shandian",
-                url: "https://sink.011211.xyz/"
+                url: "https://git.8374902.xyz/"
             }, {
-                name: "云图库",
+                name: "Docker加速",
                 icon: "icon-tuku",
-                url: "https://img.10999901.xyz/"
+                url: "https://docker.8374902.xyz/"
             },{
-                name: "BingAI",
+                name: "图床",
                 icon: "icon-AI",
-                url: "https://ai.011211.xyz"
+                url: "https://png.8374902.xyz/"
             },{
-                name: "图库OA",
+                name: "QQ等级加速",
                 icon: "icon-oabangong-copy",
-                url: "https://img.10999901.xyz/admin"
+                url: "https://xylls.cxncp.net"
             },{
-                name: "博客OA",
+                name: "流量卡领取",
                 icon: "icon-oabangong-copy",
-                url: "https://b.10999901.xyz/admin"
+                url: "https://mall.51haoka.shop/index?k=d2I3dEVteG50RWM9"
             }
             
 
